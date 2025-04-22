@@ -1,5 +1,12 @@
 # 📄 Appointment Analysis Summary (COVID Trends)
 
+*Ecem Yildirim*  
+📍 Washington, DC  
+📧 ecemyildirim900@gmail.com • ey196@georgetown.edu  
+🔗 [GitHub](https://github.com/eaglemascot) • [LinkedIn](https://linkedin.com/in/ecem-yıldırım-/)
+
+---
+
 This repository contains a single PDF file summarizing a data analysis project focused on graduate student advising appointments across different COVID-19 periods (pre-, during, and post-pandemic).
 
 The goal of the analysis was to identify how student engagement with advising services changed over time, both in terms of overall usage rates and program-level behavior.
